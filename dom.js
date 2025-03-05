@@ -1,0 +1,1 @@
+let headers= document.getElementsByTagName("h1")
